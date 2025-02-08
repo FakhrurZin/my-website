@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Simple Website</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Simple Website!</h1>
+    <p>This is a basic webpage built with HTML and CSS.</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Hi, I’m John Doe. I love coding and building websites!</p>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email me at: <a href="mailto:john.doe@example.com">john.doe@example.com</a></p>
+  </section>
+
+  <footer>
+    <p>Copyright © 2025 John Doe</p>
+  </footer>
+</body>
+</html>
